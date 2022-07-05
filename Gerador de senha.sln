@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gerador de senha", "Gerador de senha\Gerador de senha.csproj", "{379E61B1-C8E2-43A6-8A03-1EF5B3326269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{379E61B1-C8E2-43A6-8A03-1EF5B3326269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379E61B1-C8E2-43A6-8A03-1EF5B3326269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379E61B1-C8E2-43A6-8A03-1EF5B3326269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379E61B1-C8E2-43A6-8A03-1EF5B3326269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {113E638A-98A0-454E-B599-80D1EBC54C49}
+	EndGlobalSection
+EndGlobal
